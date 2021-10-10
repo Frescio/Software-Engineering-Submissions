@@ -1,6 +1,6 @@
 # Project Write Up
 <br>
-  <a href=https://github.com/ishaannverma/VoyageCapital><img src="https://drive.google.com/file/d/1eqEOLmCFRUUNUiIhHxjf_An987BjTsdG/view?usp=sharing" alt="Voyage Capital" width="200"></a>
+  <a><img src="https://drive.google.com/file/d/1eqEOLmCFRUUNUiIhHxjf_An987BjTsdG/view?usp=sharing" alt="Frescio" width="200"></a>
   <br>
 ## Farm Frescio
  
