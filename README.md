@@ -1,12 +1,14 @@
 # Project Write Up
-
+<br>
+  <a href=https://github.com/ishaannverma/VoyageCapital><img src="https://drive.google.com/file/d/1eqEOLmCFRUUNUiIhHxjf_An987BjTsdG/view?usp=sharing" alt="Voyage Capital" width="200"></a>
+  <br>
 ## Farm Frescio
  
 # Problem Statement :
 
 Frescio is a website which aims to promote Smart Agriculture among farmers. It is a digital hub for farmers to learn more about farming, cultivating their crops and recommendation systems for various problems they might face and at the same time providing a platform to sell their produce at fair prices by connecting them directly to buyers. Frescio is being designed to help farmers at every step of their journey. 
 
-# Motivation:
+# Our Motivation:
 
 1. Farming is one of the major sectors that influences India’s economic growth. Agriculture alone contributes around 20 percent to India’s GDP according to the Economic Survey 2020-2021.
 2. More than 28 farmers and farm labourers die by suicide in India every day, according to the 2021 State of India’s Environment (SoE) report. Suicide among farmers has been a routine in India for the last 20 years and the suicide rate has been increasing over these years. 
